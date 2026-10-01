@@ -1,0 +1,46 @@
+{
+  "author": "LavX",
+  "available": true,
+  "categories": [
+    "media",
+    "utilities"
+  ],
+  "description": "Bazarr+ manages subtitles for movie, television, and sports libraries. It can run standalone for manual subtitle workflows or connect to supported media managers. This Runtipi app installs Bazarr+ only and does not provision other services.",
+  "dynamic_config": true,
+  "exposable": true,
+  "form_fields": [
+    {
+      "default": 1000,
+      "env_variable": "PUID",
+      "hint": "Numeric user ID used by the image entrypoint to run Bazarr+ and own /config. Keep the Compose user unset.",
+      "label": "PUID",
+      "max": 2147483647,
+      "min": 1,
+      "required": false,
+      "type": "number"
+    },
+    {
+      "default": 1000,
+      "env_variable": "PGID",
+      "hint": "Numeric group ID used by the image entrypoint for /config and media file access.",
+      "label": "PGID",
+      "max": 2147483647,
+      "min": 1,
+      "required": false,
+      "type": "number"
+    }
+  ],
+  "id": "bazarr-plus",
+  "min_tipi_version": "4.7.0",
+  "name": "Bazarr+",
+  "port": 6767,
+  "short_desc": "Find and manage subtitles for movies, TV, and sports.",
+  "source": "https://github.com/LavX/bazarr",
+  "supported_architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "tipi_version": 1,
+  "version": "2.7.0",
+  "website": "https://lavx.github.io/bazarr/"
+}

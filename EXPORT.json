@@ -1,0 +1,267 @@
+{
+  "files": {
+    ".github/scripts/verify_export.py": "6ad95642e3585712de12a31ea352864c8adc95a78dcb3d2681b33786b40d6e8c",
+    ".github/workflows/store.yml": "1e9a59834a7456e668aa43c2d0c249af3a981039408349d9567365d62ec0ceac",
+    "Apps/BazarrPlus/docker-compose.yml": "fe78f93c82cc9edeeb5c747d74f438fc6dccd5bf823dd85339a23e298bedbad7",
+    "Apps/BazarrPlus/icon.png": "0f3652d0b0c3f57ccf31f082e45064292e226a47eb19b6ca38ec33b3d93245a3",
+    "Apps/BazarrPlus/thumbnail.png": "8734938910786b8589c985210d0ce218679f04174c9d30d2939c383f6b81fabf",
+    "Apps/BazarrPlusStack/docker-compose.yml": "4c3b0e8568f0b5fe8ad5a7554f6d5894de43c56e8c683e7708ddc1852bb635e3",
+    "LICENSE": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "NOTICES.md": "a3be277256eda4c9d0317f05dd592e6f899d14ff8f4eed6dfd9f02a4e1969e75",
+    "README.md": "b8dc687b0c886057ed0b3f904c5022223267c6bfd69adff49f4042894016539f",
+    "apps/bazarr-plus/config.json": "a711eb0e96db8d19c34c75b82b069d56f1b308dd730e2f1b3c21fc12fba5e4d2",
+    "apps/bazarr-plus/docker-compose.yml": "335bb65ea49dd1b4cc81622e78f7c946cf7c7b7a74d8597981fea8cd899d5cca",
+    "apps/bazarr-plus/metadata/description.md": "fcead7b6da66e83e82fd52f8568bfd1b20b2013dd6825b0834dedb84f6b2e031",
+    "apps/bazarr-plus/metadata/logo.jpg": "d4d1a4e290afbd6a1166a75e8f4479d016c6fc71a696df8983d19deab27332c3",
+    "build/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ca_profile.xml": "7a15cd63d61813ce2bde05d2767399857e4b40ae9c520774eb9ed60d921e476b",
+    "category-list.json": "60c6c78810d12bfaea5e4ab2c6f357d3092f2d473176e89a52c3cf93983defe2",
+    "featured-apps.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "recommend-list.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "stacks/bazarr-plus/compose.media.yaml.example": "250106bc58c2db8e76ca586d05d33e5bfb048a58d63d7aa4f65f37aec1577215",
+    "stacks/bazarr-plus/compose.yaml": "5dbde3a0592fc231ac818e0bce903913757e338a122721fb86413de9c3d3e37f",
+    "store-config.json": "f9059b3810c69f35433b4c32c1ac3cee4f1231db59fe025f87f51687c27fba33",
+    "submissions/truenas/LICENSE.LGPL-3.0": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+    "submissions/truenas/THIRD_PARTY.md": "36e5213dfb449363e92d5b47a582093920827a3357678d076dd148c83b6ef30d",
+    "submissions/truenas/ix-dev/community/bazarr-plus/README.md": "adf3f4c250367873a192227a8b6cccd2b6de9c8f0c598223cee51d0c297e5306",
+    "submissions/truenas/ix-dev/community/bazarr-plus/app.yaml": "c49dc8545d0e5c6a8c30bc4f3d339c9ea1c401bdbb772487b43497b72417fd92",
+    "submissions/truenas/ix-dev/community/bazarr-plus/ix_values.yaml": "cdcd41f461c89277dea77feb944a526f83770b987266eda6ef0c52989c70d6ea",
+    "submissions/truenas/ix-dev/community/bazarr-plus/questions.yaml": "5a68497a7112b71c71cf2a285725b9891bc1178323d6ceb9fd29b8c12cfea258",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/docker-compose.yaml": "abf28dd53c92ca9a4834653952c166c174bbcecec8864ba5c6199e58f1d5dece",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/configs.py": "d595feaf30622a91e02009bfb8f6a9c7f2d799c74b8d298a9c92d23ba04a20bd",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/container.py": "5b7e12b91efb69280b3165c9c2517d708d789b08de8ae203798ecf5e590de4ef",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/depends.py": "dad72df5f9ca58c832bf478b1c1722e69d02c9c05c6103e39e3fe95ab3064661",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deploy.py": "2b9e3feaaf84fa12160ec70b224056a4aaca04bd4cf1abe2da63a642346ee923",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps.py": "a95ce0ceb9f5dead7b3a70ac8e6e9c2f8068b723451f43c386d99c3f1232043c",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_chromadb.py": "0bfc7bdaf2ed43e5023c4c2390ebe047ae304976c3a81f9014f1efe4d088d628",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_cron.py": "57b3eea3fa4bb65de2f71f90974eee637e16d32237aaa95c446fccdca3720622",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_elastic.py": "8f700f34c3226f1ac43487702476116cb77425ff254925168b32b49dcf6c9e14",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_guacd.py": "2760f9838aed63000b9a666a6ba1eebf49b94fca4904cc094f18b3b5b4bd3869",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_mariadb.py": "11c2aa85ea41c4b0e7a101c96c41d17812e79b2a39aeed79d89dc028bc6455ae",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_meilisearch.py": "f4d0e2f82f5d491be0ad873bb25019734031733e42a2d9704583cd676d7158eb",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_memcached.py": "d8ac8e314fbd7533d06c201dcf1a4aed3af7b2514a1ba934d7933458d6def960",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_mongodb.py": "7e2e1f73ae961890e4d2598bccb3c7f0be0b6aecd5321c56b1406e210d5c1fb3",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_perms.py": "05def69dbe41cda91c497a467333e3b01b8c42c6f92332a20c6280601ab579c3",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_postgres.py": "f6e34785dd932200d2724658d743ed6a68fba96cc393d8efe8b2199c26df9361",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_redis.py": "bc77a70b94d26b749725de7ff8cb4fcc26f9fcc01fb6ab1490dea19dc84a002f",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_solr.py": "8dad4fb7cfc0d9771571785d7d0855ba903ae383e48c8ccc9636e78a2ecea262",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/deps_tika.py": "3aa2c8689dc01246df98c4da7ab479c72d3731dbd1b316e3bfbc96fa26d5ecf5",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/device.py": "af430cb3c7dda460aea79fc9fb90ee4fb172e543d0f471ae64dc01f690068f18",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/device_cgroup_rules.py": "d68c0f3245390cbabed94ee35144a89d6339fbbcc0f9a77ef58acd6538d2cb18",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/devices.py": "45220e653d0e73313a5f9392752d2464cccf5bd93ea7c8fa7bbb4b3c444fa875",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/dns.py": "62b14cbc9c6668cf8d6ebfbc06f5fa4465ed17ca26f4032da3b9934dbffa4a74",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/docker_client.py": "d59d605728ca2a880e750525cf1b839432d70bcbf3c54118818af3d435aba958",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/environment.py": "29e0b5987daf33e377e50e37442573f3e35e8d2cc5291a334aaba0ba7fafe553",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/error.py": "9a385838748feddb89e4006eb41ddeb2cef992d1022482be4717eda4a5ddc159",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/expose.py": "2ede9acec41cc0802287dc1d98182e9a31e8c687a708639cb237198c5284c00c",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/extra_hosts.py": "0d579c4474baf2453f9e1828f6cb440c5679a9470efbf735f589b5ab8173ff3e",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/formatter.py": "dc47c0b90f86e5af8fd29f0a6f19a3e62d4dfb865a433b2b0b74c4dbb2ffb9d5",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/functions.py": "a85d6ef06ae067647222a27ac1ac621f971a8cdfc7b2f4eb8837599b13329a6f",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/healthcheck.py": "571bd9bfc6d879830b9a6b77f8fa510db59c0fb53dcb2e316a0c17485aa37059",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/labels.py": "6824fffb97098f208a23e8202fa11dccb28c5dbe380e294052e204bb83d20812",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/networks.py": "78d56faa6b408ea70eaf254ae2059ba4245ad540867aa9a5fc59cbae1620b5f1",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/notes.py": "aa45846ef137e423e200e0d1fc730e3408089be1a877e27fac6d68bf6ae5c771",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/portals.py": "ba72d5bbdf36c5fc1610d9067db33a30b43b399bb26475e3956fe87348236375",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/ports.py": "7405d9ab3c73adc61390635959bc6af7173b6fe392b783e7a3de350061110b6a",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/render.py": "2972ffa479196fcc76bd20a19f428f6d616aa18fb20bfa52be92c2b675d3e331",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/resources.py": "d08ea5d502c0f79f629476bcefc6213a2ff6314a36b7066fac41947c081426f8",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/restart.py": "21229b605e8c0ea4a8633600469b302716883d8f278498136de1256445b6ff78",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/security_opts.py": "8632295180f3eb99d4c879e3336352ac60119ea8fcabba83e18fdc3af26d490c",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/storage.py": "a2b4d244a0964f1e860f23c57c1f6c30665763566c482055c8e3d31bccff545e",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/sysctls.py": "14bcbfacce92021f0b293d68f2eb349382858fcbfd1704c7ba33c74f9ef6acdb",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_build_image.py": "7af6c2639d386b7c72bf7c9c0366f59f1bc6c662fe723fc08c8ee16ef08008d3",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_configs.py": "3f564830d538c9c85896d96bb228e1887dbdee765913b4dc1783f8df0a808da3",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_container.py": "d03b2d63a3cbc6451d9df66e94a63eab96ee663e990e2452a9c8cbc1a58d2b8d",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_depends.py": "b8f74d101c62a7811b377eea758ef0a04d27f72891834cc04abadc5deb702307",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_deps.py": "d331158b10bf179ee04e05a60840bac2d3a4203a13cfc137a3b460e296949a13",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_device.py": "fc7ad40b71eec25c8262e7a6a5efe7d2e4428663a1bfe6753ea2732e5121dd5a",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_device_cgroup_rules.py": "fbe460cc296459fb6160a510283e3a383a0abadd0b5846215ca6a285b31209b5",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_dns.py": "15ea76d920082c25742b47adc9e1f1894cd3207e95538988ab42bc89c05a1069",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_environment.py": "ec90ae50b9ae2f31333143bf628d091f23ce04ab7423e93fac3d76a6e4533d72",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_expose.py": "4a13b18914a8a86c6f9d87436ff99a912961b6152707191f45e3b3cbdd95026a",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_extra_hosts.py": "07a34843e64f8c7cb33211070701cfa7a6ceba98439d8d48082e8b16ada24125",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_formatter.py": "bd4f0b51bac550e9f67588a29fc4b8567ed2463165ad1ca2a145da73e9e20626",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_functions.py": "2de8cf2388f03cb7f8c59619806e1a5c859ea24c4d29ea51512d3bb74ec973d1",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_healthcheck.py": "10b29fe4393e8d48c9d3e55451c9f5e8bc681b991615973fc10b53d081eb6654",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_labels.py": "180ecb2c24876708a1bc4386ffa7877f46599db0bb502b7f446f07ecb96b8203",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_networks.py": "1495b7527cd02b08fced7ae75bea404c73f5a1dddaf5006ecc80c137dc6e02ba",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_notes.py": "be1e9400c21197ee9e2f8259ad076ed861509c17f3fd2b1d57f34defdb913783",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_portal.py": "b4f7e86fbc7bdd52dae90fe494f0dca89d2eba08ba155da768c50a3a9f163437",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_ports.py": "fcf26194acd81ca22a2325bb9834127e1c137e09ba428ecacd6fdc8dfab6f5f1",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_render.py": "f41ffead52199f57e52b3170da70213c5e50c953239ea2a3dd86ce545762aa3c",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_resources.py": "54f3ac24b17dc862758a4f1751910d4da14be2d0db68ae528abf8b2841b2e4e1",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_restart.py": "c1b13941c29480f822f8519f3582ba02e57afe8f185ed5cd146ad25f8bc94251",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_security_opts.py": "411379bc8cbb3bffb91d44e460cf38f6b5d73f1db456c7bf26e9084907687495",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_sysctls.py": "f72914ba7bc9c13418e26ca39e29e59ec21d81292f1a5c5ee78a2f47dc35ca76",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_truenas_client.py": "3356ef4e339671113f0f17ffe97ee063597fea16a3c921b2a6b1a2d16972b82d",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_validations.py": "610cb68f878fee5a74deac44580d4c082a5df60a8bde05a67050dcc552ea1028",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_volumes.py": "555881d943843f8a437a3778bcd8550c5779e616df9a6625976e44492b087690",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tmpfs.py": "3e25345ac0015c1f9188427ad1eda3247c7ddb31670077d344058a14f8337030",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/truenas_client.py": "5bd002eaaa9a46c67cb8d6bc88ff7ca90d204bd4e06117c2ffdfafad25084545",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/validations.py": "a7352b840d489da15747a766542db3342265c9111bda3ad6b156e78cfacac3cb",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/volume_mount.py": "61351cc0300b0aa2ff8fa5bf21ec412cfd7da3472f197695c8e63aeb812c876f",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/volume_mount_types.py": "142896a50889a15de414580f159717278a188791a9e4e9300729b52ed28295e2",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/volume_sources.py": "1a93a3d4ba41aeb0bf83a00b71386d03184f822c82bc08f7da1bbf0945937c40",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/volume_types.py": "08f9a24b66aabd5a0baa3fa9eafcc3589982d8b524a9eddcda105b21be25e9e6",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/volumes.py": "d897b17b572849dfeae8d3d84c0f226da03aae9a6e5eefaa5f1957e755a520a6",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/test_values/basic-values.yaml": "e67a32904b406f705b37d393ef4addfa314d85aa32e7b5eb2016db8189c52185",
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/test_values/media-host-paths.yaml": "fb0e84f3481861ff6eea6add3af469c87a6bd3d98fb3f317f61fdaaf8a7e52be",
+    "supported-languages.json": "7dd56a66f8899af87bd2fc690fe0d6387a64c2a28e774287d0774a8b1804f432",
+    "templates/bazarr-plus.xml": "cd17cea36ac922b3e5d16d482810aba48f7760bc5357467cf717d488bff4ebb4"
+  },
+  "images": {
+    "app": "ghcr.io/lavx/bazarr:2.7.0@sha256:90a5c184b0af41602ff78ea7286e0c5f2c4c284c9b18f71427d9ddbeb0b6531c",
+    "flaresolverr": "ghcr.io/flaresolverr/flaresolverr:v3.5.2@sha256:c80ae007ce2ccdcd217a12426e4f039ef763ff90738c808d38810c3e59323767",
+    "translator": "ghcr.io/lavx/ai-subtitle-translator:v2.1.1@sha256:e22abba9625b96df6727354f10933da312a084ffeae68f0eb1f9a82492f5e48d"
+  },
+  "live_verified": true,
+  "lock_sha256": "c4a0503b2b704111724b961647fd255ddfcc31c7fe37b5f7c64cefaf5e9899be",
+  "packaging_git": {
+    "commit": "9f76ccc550c62a72f96bf4f6ba259dfd72837021",
+    "dirty": false
+  },
+  "platform_revisions": {
+    "casaos": "1.0.0",
+    "runtipi": 1,
+    "stack": "1.0.0",
+    "truenas": "1.0.0",
+    "unraid": "1.0.0"
+  },
+  "ref": "main",
+  "release_provenance_sha256": "446f9dd653cc62f3ea8c71604478d0f15e8c05c5bcc1f917cf07185a9d5972f5",
+  "repository": "LavX/bazarr-packages",
+  "runtime_profile": "atlas-sidecar",
+  "schema": 1,
+  "tag": "v2.7.0",
+  "truenas_fixtures": {
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/__init__.py": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/__init__.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_build_image.py": {
+      "sha256": "7af6c2639d386b7c72bf7c9c0366f59f1bc6c662fe723fc08c8ee16ef08008d3",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_build_image.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_configs.py": {
+      "sha256": "3f564830d538c9c85896d96bb228e1887dbdee765913b4dc1783f8df0a808da3",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_configs.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_container.py": {
+      "sha256": "d03b2d63a3cbc6451d9df66e94a63eab96ee663e990e2452a9c8cbc1a58d2b8d",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_container.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_depends.py": {
+      "sha256": "b8f74d101c62a7811b377eea758ef0a04d27f72891834cc04abadc5deb702307",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_depends.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_deps.py": {
+      "sha256": "d331158b10bf179ee04e05a60840bac2d3a4203a13cfc137a3b460e296949a13",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_deps.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_device.py": {
+      "sha256": "fc7ad40b71eec25c8262e7a6a5efe7d2e4428663a1bfe6753ea2732e5121dd5a",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_device.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_device_cgroup_rules.py": {
+      "sha256": "fbe460cc296459fb6160a510283e3a383a0abadd0b5846215ca6a285b31209b5",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_device_cgroup_rules.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_dns.py": {
+      "sha256": "15ea76d920082c25742b47adc9e1f1894cd3207e95538988ab42bc89c05a1069",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_dns.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_environment.py": {
+      "sha256": "ec90ae50b9ae2f31333143bf628d091f23ce04ab7423e93fac3d76a6e4533d72",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_environment.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_expose.py": {
+      "sha256": "4a13b18914a8a86c6f9d87436ff99a912961b6152707191f45e3b3cbdd95026a",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_expose.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_extra_hosts.py": {
+      "sha256": "07a34843e64f8c7cb33211070701cfa7a6ceba98439d8d48082e8b16ada24125",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_extra_hosts.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_formatter.py": {
+      "sha256": "bd4f0b51bac550e9f67588a29fc4b8567ed2463165ad1ca2a145da73e9e20626",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_formatter.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_functions.py": {
+      "sha256": "2de8cf2388f03cb7f8c59619806e1a5c859ea24c4d29ea51512d3bb74ec973d1",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_functions.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_healthcheck.py": {
+      "sha256": "10b29fe4393e8d48c9d3e55451c9f5e8bc681b991615973fc10b53d081eb6654",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_healthcheck.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_labels.py": {
+      "sha256": "180ecb2c24876708a1bc4386ffa7877f46599db0bb502b7f446f07ecb96b8203",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_labels.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_networks.py": {
+      "sha256": "1495b7527cd02b08fced7ae75bea404c73f5a1dddaf5006ecc80c137dc6e02ba",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_networks.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_notes.py": {
+      "sha256": "be1e9400c21197ee9e2f8259ad076ed861509c17f3fd2b1d57f34defdb913783",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_notes.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_portal.py": {
+      "sha256": "b4f7e86fbc7bdd52dae90fe494f0dca89d2eba08ba155da768c50a3a9f163437",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_portal.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_ports.py": {
+      "sha256": "fcf26194acd81ca22a2325bb9834127e1c137e09ba428ecacd6fdc8dfab6f5f1",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_ports.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_render.py": {
+      "sha256": "f41ffead52199f57e52b3170da70213c5e50c953239ea2a3dd86ce545762aa3c",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_render.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_resources.py": {
+      "sha256": "54f3ac24b17dc862758a4f1751910d4da14be2d0db68ae528abf8b2841b2e4e1",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_resources.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_restart.py": {
+      "sha256": "c1b13941c29480f822f8519f3582ba02e57afe8f185ed5cd146ad25f8bc94251",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_restart.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_security_opts.py": {
+      "sha256": "411379bc8cbb3bffb91d44e460cf38f6b5d73f1db456c7bf26e9084907687495",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_security_opts.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_sysctls.py": {
+      "sha256": "f72914ba7bc9c13418e26ca39e29e59ec21d81292f1a5c5ee78a2f47dc35ca76",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_sysctls.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_truenas_client.py": {
+      "sha256": "3356ef4e339671113f0f17ffe97ee063597fea16a3c921b2a6b1a2d16972b82d",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_truenas_client.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_validations.py": {
+      "sha256": "610cb68f878fee5a74deac44580d4c082a5df60a8bde05a67050dcc552ea1028",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_validations.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_volumes.py": {
+      "sha256": "555881d943843f8a437a3778bcd8550c5779e616df9a6625976e44492b087690",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/library/base_v2_3_14/tests/test_volumes.py"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/test_values/basic-values.yaml": {
+      "sha256": "e67a32904b406f705b37d393ef4addfa314d85aa32e7b5eb2016db8189c52185",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/test_values/basic-values.yaml"
+    },
+    "submissions/truenas/ix-dev/community/bazarr-plus/templates/test_values/media-host-paths.yaml": {
+      "sha256": "fb0e84f3481861ff6eea6add3af469c87a6bd3d98fb3f317f61fdaaf8a7e52be",
+      "source": "packaging/truenas/ix-dev/community/bazarr-plus/templates/test_values/media-host-paths.yaml"
+    }
+  },
+  "urls": {
+    "casaos_feed": "https://lavx.github.io/bazarr-packages",
+    "repository": "https://github.com/LavX/bazarr-packages",
+    "stack_compose": "https://raw.githubusercontent.com/LavX/bazarr-packages/main/stacks/bazarr-plus/compose.yaml",
+    "stack_media_overlay": "https://raw.githubusercontent.com/LavX/bazarr-packages/main/stacks/bazarr-plus/compose.media.yaml.example",
+    "unraid_template": "https://raw.githubusercontent.com/LavX/bazarr-packages/main/templates/bazarr-plus.xml"
+  }
+}

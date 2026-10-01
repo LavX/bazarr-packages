@@ -1,0 +1,12 @@
+{
+  "description": {
+    "en_US": "Bazarr+ apps for CasaOS and ZimaOS, maintained by LavX."
+  },
+  "maintainer": "LavX",
+  "name": {
+    "en_US": "Bazarr+ packages"
+  },
+  "store_id": "lavx.bazarr-packages",
+  "url": "https://github.com/LavX/bazarr-packages",
+  "version": 2
+}
